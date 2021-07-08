@@ -6,7 +6,7 @@
 
 
 
-*Problem 1
+*Problem 1  
 What is AIOps? How it is different from MLOps?*
 
 AIOps stands for Artificial Intelligence for IT operations. It allows machines to solve the IT issues themseleves.It also caters to the exponential growth of data by automating the entire operations and creating a platform for the ML models to corelate the data points
@@ -18,7 +18,7 @@ Both MLOps and AIOps are used to automate the processes involve in the idea to p
 
 <br>
 
-*Problem 2 .
+*Problem 2 .  
 Explain what it means for a linear regression model to be interpretable.*
 
 A linear regression model is interpretable as the outcome is dependent upon the linear combinatin of the feautres affecting it. It doesn't involve the correlation of the two features and hence the interpretation of the model is much easier. Each feature affects the predicted outcome via weight assigned to it. A unit change in the numerical feature will bring the difference equal to its weight in the prediction. It is clear that if a feature has assigned larger weight, it is affecting the prediction more. For eg considering the number of bikes rented on a particular day based on certain conditions of that day, if the day is rainy/stormy the number of bikes rented would be significantly lower.This is also supported by the regression model which has a large negative weight for the day being rainy/stormy hence the model is interpretable.
@@ -29,6 +29,7 @@ A linear regression model is interpretable as the outcome is dependent upon the 
 
 AWS REGISTRATION
 
+![AwsSS](https://user-images.githubusercontent.com/63975127/124975964-44b85700-e04c-11eb-99e9-27638fe969e7.PNG)
 
 
 
